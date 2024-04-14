@@ -1,0 +1,41 @@
+Sarapiqui,Heredia,83
+Heredia,Sarapiqui,83
+Heredia,Santa Barbara,9
+Heredia,Barva,9
+Heredia,San Rafael,4
+Heredia,San Isidro,9
+Heredia,Santo Domingo,4
+Heredia,San Pablo,3
+Santa Barbara,Heredia,9
+Santa Barbara,Belen,10
+Santa Barbara,Flores,5
+Santa Barbara,Barva,7
+Belen,Santa Barbara,10
+Belen,Flores,5
+Belen,Heredia,10
+Flores,Santa Barbara,5
+Flores,Belen,5
+Flores,Barva,6
+Flores,San Rafael,9
+Flores,Heredia,5
+Barva,Heredia,9
+Barva,Santa Barbara,7
+Barva,San Rafael,4
+Barva,Flores,6
+Barva,Heredia,5
+San Rafael,Heredia,4
+San Rafael,Barva,4
+San Rafael,Heredia,4
+San Rafael,San Pablo,3
+San Rafael,San Isidro,7
+San Isidro,San Pablo,6
+San Isidro,Heredia,9
+San Isidro,San Rafael,7
+San Isidro,Santo Domingo,7
+Santo Domingo,Heredia,4
+Santo Domingo,San Pablo,3
+Santo Domingo,San Isidro,7
+San Pablo,Heredia,3
+San Pablo,San Rafael,3
+San Pablo,San Isidro,6
+San Pablo,Santo Domingo,3

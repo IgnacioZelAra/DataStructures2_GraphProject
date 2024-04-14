@@ -1,0 +1,12 @@
+Pococi,Guacimo,11
+Pococi,Siquirres,14
+Guacimo,Pococi,11
+Guacimo,Siquirres,24
+Siquirres,Guacimo,24
+Siquirres,Pococi,14
+Siquirres,Matina,33
+Matina,Siquirres,33
+Matina,Limon,38
+Limon,Talamanca,63
+Limon,Matina,38
+Talamanca,Limon,63

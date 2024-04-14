@@ -1,0 +1,28 @@
+Puntarenas,Montes de Oro,31
+Puntarenas,Esparza,21
+Montes de Oro,Puntarenas,31
+Montes de Oro,Esparza,23
+Esparza,Puntarenas,21
+Esparza,Montes de Oro,23
+Esparza,Garabito,20
+Garabito,Esparza,20
+Garabito,Parrita,141
+Parrita,Garabito,141
+Parrita,Quepos,25
+Quepos,Parrita,25
+Quepos,Osa,124
+Osa,Quepos,124
+Osa,Buenos Aires,83
+Osa,Golfito,94
+Buenos Aires,Osa,83
+Buenos Aires,Golfito,74
+Buenos Aires,Coto Brus,102
+Coto Brus,Buenos Aires,102
+Coto Brus,Golfito,88
+Coto Brus,Corredores,71
+Golfito,Osa,94
+Golfito,Buenos Aires,74
+Golfito,Coto Brus,88
+Golfito,Corredores,32
+Corredores,Golfito,32
+Corredores,Coto Brus,71

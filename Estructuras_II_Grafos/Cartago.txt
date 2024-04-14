@@ -1,0 +1,26 @@
+Cartago,La Union,11
+Cartago,Oreamuno,45
+Cartago,Paraiso,7
+Cartago,El Guarco,80
+La Union,Cartago,11
+El Guarco,Cartago,80
+Oreamuno,Cartago,45
+Oreamuno,Paraiso,44
+Oreamuno,Alvarado,22
+Oreamuno,Turrialba,50
+Alvarado,Oreamuno,22
+Alvarado,Turrialba,64
+Alvarado,Paraiso,38
+Alvarado,Jimenez,17
+Paraiso,Cartago,7
+Paraiso,Oreamuno,44
+Paraiso,Alvarado,38
+Paraiso,Jimenez,47
+Paraiso,Turrialba,33
+Jimenez,Paraiso,47
+Jimenez,Alvarado,17
+Jimenez,Turrialba,12
+Turrialba,Oreamuno,50
+Turrialba,Alvarado,64
+Turrialba,Jimenez,12
+Turrialba,Paraiso,33

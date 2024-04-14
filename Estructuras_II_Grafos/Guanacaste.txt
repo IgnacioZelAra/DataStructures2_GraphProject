@@ -1,0 +1,30 @@
+Liberia,La Cruz,58
+Liberia,Bagaces,29
+Liberia,Carrillo,120
+La Cruz,Liberia,58
+Carrillo,Liberia,120
+Carrillo,Bagaces,144
+Carrillo,Santa Cruz,63
+Santa Cruz,Carrillo,63
+Santa Cruz,Bagaces,83
+Santa Cruz,Nicoya,23
+Nicoya,Bagaces,108
+Nicoya,Santa Cruz,23
+Nicoya,Hojancha,14
+Nicoya,Nandayure,35
+Hojancha,Nicoya,14
+Hojancha,Nandayure,35
+Nandayure,Hojancha,33
+Nandayure,Nicoya,33
+Bagaces,Liberia,29
+Bagaces,Carrillo,144
+Bagaces,Santa Cruz,83
+Bagaces,Nicoya,108
+Bagaces,Canas,23
+Canas,Bagaces,23
+Canas,Tilarán,25
+Canas,Abangares,48
+Tilarán,Canas,25
+Tilarán,Abangares,72
+Abangares,Canas,48
+Abangares,Tilarán,72

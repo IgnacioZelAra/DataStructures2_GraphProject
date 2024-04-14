@@ -1,0 +1,72 @@
+Acosta,San Jose,28
+Acosta,Escazu,37
+Acosta,Puriscal,29
+Acosta,Mora,32
+Acosta,Santa Ana,43
+Acosta,Alajuelita,31
+Alajuelita,San Jose,6
+Alajuelita,Desamparados,7
+Alajuelita,Aserri,13
+Alajuelita,Curridabat,9
+Aserri,Desamparados,5
+Aserri,Alajuelita,6
+Aserri,Acosta,19
+Aserri,Dota,59
+Aserri,Leon Cortes Castro,46
+Curridabat,San Jose,6
+Curridabat,Alajuelita,9
+Curridabat,Montes de Oca,3
+Desamparados,San Jose,4
+Desamparados,Aserri,5
+Desamparados,Alajuelita,5
+Desamparados,Dota,65
+Dota,Desamparados,62
+Dota,Tarrazu,7
+Dota,Perez Zeledon,111
+Escazu,San Jose,9
+Escazu,Santa Ana,6
+Escazu,Alajuelita,7
+Escazu,Acosta,32
+Goicoechea,San Jose,5
+Goicoechea,Vazquez de Coronado,22
+Goicoechea,Tibas,5
+Goicoechea,Moravia,10
+Goicoechea,Montes de Oca,2
+Leon Cortes Castro,Desamparados,51
+Leon Cortes Castro,Tarrazu,4
+Leon Cortes Castro,Aserri,45
+Montes de Oca,San Jose,3
+Montes de Oca,Goicoechea,3
+Montes de Oca,Curridabat,5
+Mora,Turrubares,83
+Mora,Puriscal,22
+Mora,Acosta,32
+Mora,Santa Ana,2
+Mora,Escazu,18
+Moravia,Tibas,3
+Moravia,Goicoechea,2
+Moravia,Vazquez de Coronado,20
+Perez Zeledon,Dota,97
+Puriscal,Mora,50
+Puriscal,Acosta,58
+Puriscal,Turrubares,52
+San Jose,Escazu,9
+San Jose,Desamparados,4
+San Jose,Goicoechea,11
+San Jose,Alajuelita,6
+San Jose,Tibas,3
+San Jose,Montes de Oca,3
+San Jose,Curridabat,6
+Santa Ana,Escazu,8
+Santa Ana,Mora,10
+Santa Ana,Acosta,42
+Tarrazu,Aserri,41
+Tarrazu,Dota,18
+Tarrazu,Leon Cortes Castro,4
+Tibas,San Jose,3
+Tibas,Goicoechea,5
+Tibas,Moravia,13
+Turrubares,Puriscal,21
+Turrubares,Mora,43
+Vazquez de Coronado,Goicoechea,24
+Vazquez de Coronado,Moravia,20

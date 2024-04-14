@@ -1,0 +1,68 @@
+Alajuela,Atenas,69
+Alajuela,Grecia,65
+Alajuela,Poas,16
+Alajuela,Rio Cuarto,57
+Atenas,Alajuela,69
+Atenas,Grecia,20
+Atenas,Naranjo,22
+Atenas,Orotina,20
+Atenas,Palmares,20
+Atenas,San Mateo,18
+Atenas,San Ramon,25
+Grecia,Alajuela,69
+Grecia,Atenas,20
+Grecia,Naranjo,18
+Grecia,Poas,13
+Grecia,Sarchi,7
+Guatuso,Los Chiles,71
+Guatuso,San Carlos,80
+Guatuso,Upala,44
+Los Chiles,Guatuso,71
+Los Chiles,San Carlos,96
+Los Chiles,Upala,62
+Naranjo,Atenas,22
+Naranjo,Grecia,18
+Naranjo,Palmares,12
+Naranjo,San Ramon,24
+Naranjo,Sarchi,7
+Naranjo,Zarcero,13
+Orotina,Atenas,20
+Orotina,San Mateo,4
+Palmares,Atenas,20
+Palmares,Naranjo,12
+Palmares,San Mateo,33
+Palmares,San Ramon,8
+Poas,Alajuela,16
+Poas,Grecia,13
+Poas,Sarchi,22
+Rio Cuarto,Alajuela,57
+Rio Cuarto,San Carlos,34
+Rio Cuarto,Sarchi,41
+San Carlos,Guatuso,80
+San Carlos,Los Chiles,96
+San Carlos,Rio Cuarto,34
+San Carlos,San Ramon,38
+San Carlos,Sarchi,48
+San Carlos,Zarcero,28
+San Mateo,Atenas,18
+San Mateo,Orotina,4
+San Mateo,San Ramon,31
+San Ramon,Naranjo,24
+San Mateo,Palmares,33
+San Ramon,Palmares,8
+San Ramon,San Carlos,38
+San Ramon,San Mateo,31
+San Ramon,Zarcero,23
+Sarchi,Alajuela,31
+Sarchi,Grecia,7
+Sarchi,Naranjo,7
+Sarchi,Poas,22
+Sarchi,Rio Cuarto,41
+Sarchi,San Carlos,41
+Sarchi,Zarcero,21
+Upala,Guatuso,44
+Upala,Los Chiles,62
+Zarcero,Naranjo,13
+Zarcero,San Carlos,28
+Zarcero,San Ramon,23
+Zarcero,Sarchi,21
